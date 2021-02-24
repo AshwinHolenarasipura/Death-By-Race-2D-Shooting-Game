@@ -1,6 +1,6 @@
 # Death-By-Race-2D-Shooting-Game
 
-A Simple OpenGL  project.
+A Simple OpenGL project. Used Code Blocks.
 
 SCREENSHOTS :
 
